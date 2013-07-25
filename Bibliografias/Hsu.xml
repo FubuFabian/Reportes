@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+<b:Source>
+<b:SourceType>BookSection</b:SourceType>
+<b:BIBTEX_Entry>incollection</b:BIBTEX_Entry>
+<b:Tag>raey</b:Tag>
+<b:Title>Freehand 3D Ultrasound Calibration: A Review</b:Title>
+<b:Year>2009</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Hsu</b:Last>
+<b:First>Po-Wei</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Prager</b:Last>
+<b:First>RichardW.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Gee</b:Last>
+<b:First>AndrewH.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Treece</b:Last>
+<b:First>GrahamM.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+<b:Editor>
+<b:NameList>
+<b:Person>
+<b:Last>Sensen</b:Last>
+<b:First>ChristophW.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>HallgrÃ­msson</b:Last>
+<b:First>Benedikt</b:First>
+</b:Person>
+</b:NameList>
+</b:Editor>
+</b:Author>
+<b:Pages>47-84</b:Pages>
+<b:StandardNumber> ISBN: 978-3-540-68992-8 DOI: 10.1007/978-3-540-68993-5_3</b:StandardNumber>
+<b:Publisher>Springer Berlin Heidelberg</b:Publisher>
+<b:BookTitle>Advanced Imaging in Biology and Medicine</b:BookTitle>
+<b:ConferenceName>Advanced Imaging in Biology and Medicine</b:ConferenceName>
+<b:URL>http://dx.doi.org/10.1007/978-3-540-68993-5_3</b:URL>
+</b:Source>
+</b:Sources>
